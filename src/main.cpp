@@ -9,6 +9,10 @@ int main()
     int c=multi(2,5);
     cout<<"sum is "<<a<<endl;
     cout<<"multication is "<<c<<endl;
+    int b=sub(30,10);
+    cout<<"sum is "<<a<<endl;
+    cout<<"substraction is "<<b<<endl;
+
     return 0;
 }
 
