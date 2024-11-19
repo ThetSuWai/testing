@@ -11,7 +11,6 @@ int main()
     int b=sub(30,10);
     cout<<"sum is "<<a<<endl;
     cout<<"substraction is "<<b<<endl;
-
     return 0;
 }
 
